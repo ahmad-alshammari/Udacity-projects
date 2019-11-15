@@ -28,8 +28,10 @@ Technical
 This project consists of the following assets:
 
     index.html - contains the game's html structure.
-    main.css - contains the game's board styling.
-    app.js - contains all the board actions & logic.
+    style.css - contains the game's board styling.
+    script.js - contains all the board actions & logic.
+    
+   	 
 
 Credits
 
