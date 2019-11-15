@@ -17,9 +17,9 @@ In this game there a Player and Enemies (bugs). The goal of the player is to rea
 
 	#The required steps to run the application successfully: 
 	
-1. Extract the ZIP file.
 
-2. Open index.html in browser.
 
-3. Enjoy plying the game
+1. Open index.html in browser.
+
+2. Enjoy plying the game
 >>>>>>> Third commit
